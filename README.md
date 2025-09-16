@@ -1,5 +1,5 @@
 ⚠️ Important Note: Code Not Available
-The full project was successfully completed, but due to a sudden system crash, I had to format my laptop. At that time, I had not pushed the project code to GitHub, so the entire source code was lost.
+The full project was successfully completed, but due to a sudden system crash, I had to format my laptop. At that time, I had not pushed the project code to GitHub, so the entire source code was lost. I understand this is a major issue, and I’ve now learned the importance of regular backups and version control.
 
 This is my 3rd year (6th semester) project, where I built a Multimodal Emotion Detection App. The app uses three types of data to predict human emotions in real-time:
 
@@ -20,8 +20,6 @@ This is my 3rd year (6th semester) project, where I built a Multimodal Emotion D
 
 5. Built a live dashboard using React.js and Firebase to display emotions and sensor values
 
-
-I understand this is a major issue, and I’ve now learned the importance of regular backups and version control.
 
 📑 What I Still Have
 Even though the code is lost, I have a detailed project report that includes:
