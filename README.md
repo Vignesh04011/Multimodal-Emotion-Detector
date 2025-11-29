@@ -1,5 +1,5 @@
 ⚠️ Important Note: Code Not Available
-The full project was successfully completed, but due to a sudden system crash, I had to format my laptop. At that time, I had not pushed the project code to GitHub, so the entire source code was lost. I understand this is a major issue, and I’ve now learned the importance of regular backups and version control.
+The full project was successfully completed, but due to an bike accident, my laptop was damaged and had to format my laptop. At that time, I had not pushed the project code to GitHub, so the entire source code was lost. I understand this is a major issue, and I’ve now learned the importance of regular backups and version control.
 
 This is my 3rd year (6th semester) project, where I built a Multimodal Emotion Detection App. The app uses three types of data to predict human emotions in real-time:
 
